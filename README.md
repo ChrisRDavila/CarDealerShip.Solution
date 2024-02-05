@@ -1,6 +1,6 @@
-# _Project-Name.Solution_
+# _CarDealership.Solution_
 
-#### _brief description_
+#### _introduction to Testing with Csharp MVC models_
 
 #### By **Laura Hope**
 
